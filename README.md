@@ -5,3 +5,5 @@ Hardware used:
  - Arduino UNO R3
  - 3x Ultrasonic sensors
  - SparkFun LSM9DS1 IMU Breakout
+ - 2x XBee radio modules
+ - External LED panel to display map colors
